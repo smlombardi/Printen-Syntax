@@ -6,10 +6,10 @@ A dark, subtle theme for front-end work.  Inspired by the dark feault theme from
 
 
 ###SCSS
-![image](https://raw.githubusercontent.com/smlombardi/Printen-Syntax/blob/master/screenshots/scss.png)
+![image](https://github.com/smlombardi/Printen-Syntax/blob/master/screenshots/sass.png?raw=true)
 
 ###HTML
-![image](https://raw.githubusercontent.com/smlombardi/Printen-Syntax/blob/master/screenshots/html.png)
+![image](https://github.com/smlombardi/Printen-Syntax/blob/master/screenshots/html.png?raw=true)
 
 ###JS
-![image](https://raw.githubusercontent.com/smlombardi/Printen-Syntax/blob/master/screenshots/js.png)
+![image](https://github.com/smlombardi/Printen-Syntax/blob/master/screenshots/js.png?raw=true)
