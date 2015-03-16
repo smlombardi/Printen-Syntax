@@ -1,5 +1,15 @@
 # printen-syntax theme
 
-A short description of your theme.
+A dark, subtle theme for front-end work.  Inspired by the dark feault theme from the [Cot Editor](http://coteditor.com/).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## Screenshots
+
+
+###SCSS
+![image](https://raw.githubusercontent.com/smlombardi/Printen-Syntax/master/screenshots/scss.png)
+
+###HTML
+![image](https://raw.githubusercontent.com/smlombardi/Printen-Syntax/master/screenshots/html.png)
+
+###JS
+![image](https://raw.githubusercontent.com/smlombardi/Printen-Syntax/master/screenshots/js.png)

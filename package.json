@@ -2,7 +2,7 @@
   "name": "printen-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "Ported from the Syntax theme from Cot Editor",
+  "description": "Inspired by a syntax theme from Cot Editor",
   "repository": "https://github.com/atom/printen-syntax",
   "license": "MIT",
   "engines": {
