@@ -1,0 +1,11 @@
+{
+  "name": "printen-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Ported from the Syntax theme from Cot Editor",
+  "repository": "https://github.com/atom/printen-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
